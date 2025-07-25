@@ -7,13 +7,13 @@ const Header = () => {
            <h1 className='ml-10 mt-0 text-3xl text-orange-400 font-extrabold'>NH</h1>
         </div>  
         <div>
-            <a className='ml-200 text-md text-zinc-700 hover:text-zinc-400 hover:cursor-pointer font-bold' href="#">About</a>
+            <a className='ml-200 text-md text-zinc-700 hover:text-zinc-400 hover:cursor-pointer font-bold' href="#About">About</a>
         </div>
         <div>
-           <a className='text-md text-zinc-700 hover:text-zinc-400 hover:cursor-pointer font-bold' href="#">Projects</a>
+           <a className='text-md text-zinc-700 hover:text-zinc-400 hover:cursor-pointer font-bold' href="#Projects">Projects</a>
         </div>
         <div>
-          <a className='mr-10 text-md text-zinc-700 hover:text-zinc-400 hover:cursor-pointer font-bold' href="#">Contact</a>
+          <a className='mr-10 text-md text-zinc-700 hover:text-zinc-400 hover:cursor-pointer font-bold' href="#Contact">Contact</a>
         </div>
     </div>
   )

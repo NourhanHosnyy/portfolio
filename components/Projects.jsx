@@ -2,42 +2,42 @@ import React from 'react';
 
 const projects = [
   {
-    image: "/public/6035054067862062675.jpg",
+    image: "/6035054067862062675.jpg",
     title: "Weather App",
     link: "https://weather-app-nourhan.netlify.app",
   },
   {
-    image: "/public/6041620398547782424.jpg",
+    image: "/6041620398547782424.jpg",
     title: "To-Do List",
     link: "https://todo-nourhan.netlify.app",
   },
   {
-    image: "/public/6043872198361466404.jpg",
+    image: "/6043872198361466404.jpg",
     title: "Calculator",
     link: "https://calc-nourhan.netlify.app",
   },
   {
-    image: "/public/6037619477597767336.jpg",
+    image: "/6037619477597767336.jpg",
     title: "Tasbih Counter",
     link: "https://tasbih-nourhan.netlify.app",
   },
   {
-    image: "/public/6026045000296548535.jpg",
+    image: "/6026045000296548535.jpg",
     title: "Discover Egypt",
     link: "https://discover-egypt-nourhan.netlify.app",
   },
   {
-    image: "/public/6026045000296548584.jpg",
+    image: "/6026045000296548584.jpg",
     title: "Calma",
     link: "https://calma-nourhan.netlify.app",
   },
   {
-    image: "/public/6032802268048378570.jpg",
+    image: "/6032802268048378570.jpg",
     title: "Countdown",
     link: "https://countdown-nourhan.netlify.app",
   },
   {
-    image: "/public/5769507789117442631.jpg",
+    image: "/5769507789117442631.jpg",
     title: "Password Generator",
     link: "https://password-generator-nourhan.netlify.app",
   },

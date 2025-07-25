@@ -10,7 +10,7 @@ const Hero = () => {
        <h2 className='justify-self-center ml-50 text-md text-zinc-700 font-semibold'>Computer science student|Full stack enthusiast|React.js|Tailwind css</h2>
       </div>
       <div>
-      <img className="rounded-full mr-7 drop-shadow-2xl drop-shadow-orange-300" src="/public/3466201323164247979.jpg"></img>
+      <img className="rounded-full mr-7 drop-shadow-2xl drop-shadow-orange-300" src="/3466201323164247979.jpg"></img>
       </div>
     </div>
     
